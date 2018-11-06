@@ -1,0 +1,38 @@
+body{
+  background-color: hsl(288,38%,48%);
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+
+}
+#quote-box{
+  padding: 40px;
+  margin: 180px 380px 220px 350px;
+  background-color: white;
+  border: 0px solid black;
+  border-radius: 7px;
+  z-index: 1px;
+}
+#text{
+  color: hsl(288,38%,48%);
+
+}
+#author{
+  color: hsl(288,38%,48%);
+  text-align: right;
+  font-size: 20px;
+  margin-bottom: 25px;
+}
+.click{
+  display: flex;
+  justify-content: space-between;
+}
+
+#button{
+  color: white;
+  background-color: hsl(288,38%,48%);
+
+}
+.icon{
+  color: hsl(288,38%,48%);
+
+}
